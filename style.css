@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: linear-gradient(to right, #ff9068, #fd746c);
+}
+
+.main-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightsalmon;
+}
+
+.items {
+  float: right;
+}
+
+.links {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.links:hover {
+  background-color: coral;
+}
